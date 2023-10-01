@@ -9,7 +9,7 @@ Efeito de Paralax usando HTML & CSS
 ### Clone este repositorio
 
 ```bash
-git clone https://github.com/lucaasgarcia/paralax-website.git
+git clone https://github.com/lucaasgarcia/efeito-paralax-page.git
 ```
 
 
